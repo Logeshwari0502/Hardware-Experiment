@@ -18,5 +18,6 @@
 
 ## Line encoding
 
+![loge line code](https://github.com/user-attachments/assets/c065bcc5-f91b-49c6-b0d7-cfb7fe10a302)
 
 
